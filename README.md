@@ -31,4 +31,4 @@ If you find this work useful for your research, please cite:
 ## contact
 If you have any problems, please feel free to contact me at zouyunhao@bit.edu.cn
 # Acknowlegment
-The code borrows from [**Blind2Unblind**](https://github.com/zejinwang/Blind2Unblind), and [**SimCLR**](https://github.com/sthalles/SimCLR), please also cite their work
+The code borrows from [**Blind2Unblind**](https://github.com/zejinwang/Blind2Unblind), and [**Neighbor2Neighbor**](https://github.com/TaoHuang2018/Neighbor2Neighbor), please also cite their work
