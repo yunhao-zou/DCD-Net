@@ -1,0 +1,1 @@
+python test_sidd.py --checkpoint pretrained/dcd.pth --test_dirs ./test_dir/SIDD_val --save_test_path ./test --log_name dcd_unet_raw_sidd
