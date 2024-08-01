@@ -28,7 +28,7 @@ If you find this work useful for your research, please cite:
   year={2023}
 }
 ```
-## contact
+## Contact
 If you have any problems, please feel free to contact me at zouyunhao@bit.edu.cn
 # Acknowlegment
 The code borrows from [**Blind2Unblind**](https://github.com/zejinwang/Blind2Unblind), and [**Neighbor2Neighbor**](https://github.com/TaoHuang2018/Neighbor2Neighbor), please also cite their work
