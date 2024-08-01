@@ -9,10 +9,10 @@ In this work, we propose a  Denoise-Corrupt-Denoise training pipeline (DCD-Net) 
 
 ## Data Preparation
 * Download [**SIDD-Medium Dataset**](https://abdokamel.github.io/sidd/)
-* Put the datasets in folder ```./test_dir```, you can either use the SIDD validation set or testing set.
+* Put the datasets in folder ```./test_dir```, you can either use the SIDD validation set or testing set
 
 ## Evaluation
-* We provide the pretrained model of our DCD-Net in ```./pretrained/dcd.pth```, we also provide our reimplementation of other denoising methods in folder ```./pretrained```, including fully supervised baseline (n2c), noise2noise (n2n), and noise2void (n2v).
+* We provide the pretrained model of our DCD-Net in ```./pretrained/dcd.pth```, we also provide our reimplementation of other denoising methods in folder ```./pretrained```, including fully supervised baseline (n2c), noise2noise (n2n), and noise2void (n2v)
 * Run the following script for evaluation
 ```
 bash test_sidd.py
@@ -28,3 +28,5 @@ If you find this work useful for your research, please cite:
   year={2023}
 }
 ```
+# Acknowlegment
+The code borrows from [**Blind2Unblind**](https://github.com/zejinwang/Blind2Unblind), and [**SimCLR**](https://github.com/sthalles/SimCLR), please also cite their work
