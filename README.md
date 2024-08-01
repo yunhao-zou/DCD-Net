@@ -15,7 +15,7 @@ In this work, we propose a  Denoise-Corrupt-Denoise training pipeline (DCD-Net) 
 * We provide the pretrained model of our DCD-Net in ```./pretrained/dcd.pth```, we also provide our reimplementation of other denoising methods in folder ```./pretrained```, including fully supervised baseline (n2c), noise2noise (n2n), and noise2void (n2v)
 * Run the following script for evaluation
 ```
-bash test_sidd.py
+bash test.sh
 ```
 # Citation
 If you find this work useful for your research, please cite:
